@@ -1,5 +1,5 @@
 import fs from "fs";
-import database from "./database.json";
+import database from "./database-v2.json";
 
 const results: any[] = [];
 for (let id = 0; id < 10000; id += 1) {
